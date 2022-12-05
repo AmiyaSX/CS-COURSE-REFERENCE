@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "3cec9bba05f07c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5092982b9c41a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f4130e5378289b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "07aee44fc410a69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network Answer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ed55afde6cf9f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5203e25a4f61f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebca6ddf106932a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7315cf9dba3f2f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f19fc70d41423ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d86142a8dfcfa295",
+    "type": "split",
+    "children": [
+      {
+        "id": "c744a8a61b7e9766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3184cc5d6587f7c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76b0e0d28f105de6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4984715a0ddca7e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "204f87294b0d18bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebca6ddf106932a5",
+  "lastOpenFiles": [
+    "Network.md",
+    "Computer Network Answer.md",
+    "计网.md",
+    "Tmp.md"
+  ]
+}
