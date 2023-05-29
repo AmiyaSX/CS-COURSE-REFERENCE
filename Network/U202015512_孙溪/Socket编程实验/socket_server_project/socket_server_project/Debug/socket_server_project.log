@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(57,23): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(57,23): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(158,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(160,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(280,6): warning C4101: “ok”: 未引用的局部变量
+C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\socket_server_project\main.cpp(291,6): warning C4101: “ok”: 未引用的局部变量
+  socket_server_project.vcxproj -> C:\Users\sucy\Desktop\lab\lab\lab1\socket_server_project\Debug\socket_server_project.exe
